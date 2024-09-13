@@ -62,14 +62,24 @@
   <ItemGroup>
     <Compile Include="Assets\Script\AnimationPlayer.cs" />
     <Compile Include="Assets\Script\DayNightCycle.cs" />
+    <Compile Include="Assets\Grass And Flowers Pack 1\Example Scene\SimpleTextureDrawing.cs" />
     <Compile Include="Assets\Jammo-Character\Scripts\MovementInput.cs" />
     <Compile Include="Assets\Script\CameraPlayer.cs" />
     <Compile Include="Assets\Script\AnimationEnnemies.cs" />
+    <Compile Include="Assets\Waldemarst\Broccoli\Controller\BroccoTreeController_1_2_5.cs" />
+    <Compile Include="Assets\Script\CameraBezierPath.cs" />
+    <Compile Include="Assets\Script\HealthBar.cs" />
+    <Compile Include="Assets\Script\Bezier.cs" />
+    <Compile Include="Assets\Script\EnemyPatrol.cs" />
     <Compile Include="Assets\Jammo-Character\Scripts\CharacterSkinController.cs" />
+    <Compile Include="Assets\Script\HealthBarFollow.cs" />
     <Compile Include="Assets\Script\PlayerMovement.cs" />
+    <Compile Include="Assets\Script\CharacterStats.cs" />
     <Compile Include="Assets\Script\EnnemiesMovement.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Waldemarst\JapaneseGardenPackage\Textures\Credits.txt" />
+    <None Include="Assets\Grass And Flowers Pack 1\Example Scene\Skyboxes\_skybox info.txt" />
     <None Include="Assets\BodyGuards\ReadMe.txt.txt" />
   </ItemGroup>
   <ItemGroup>
