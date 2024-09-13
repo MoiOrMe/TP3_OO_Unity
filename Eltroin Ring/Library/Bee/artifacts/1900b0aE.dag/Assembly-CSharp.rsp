@@ -365,9 +365,11 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Jammo-Character/Scripts/CharacterSkinController.cs"
 "Assets/Jammo-Character/Scripts/MovementInput.cs"
+"Assets/Script/AnimationEnnemies.cs"
 "Assets/Script/AnimationPlayer.cs"
 "Assets/Script/CameraPlayer.cs"
 "Assets/Script/DayNightCycle.cs"
+"Assets/Script/EnnemiesMovement.cs"
 "Assets/Script/PlayerMovement.cs"
 -langversion:9.0
 /deterministic

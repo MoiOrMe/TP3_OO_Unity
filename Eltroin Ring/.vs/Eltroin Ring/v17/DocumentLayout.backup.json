@@ -7,11 +7,15 @@
       "RelativeMoniker": "D:0:0:{8C0E344A-3052-EF1C-06E6-A08098114924}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\animationplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8C0E344A-3052-EF1C-06E6-A08098114924}|Assembly-CSharp.csproj|c:\\users\\robin\\tp3_oo_unity\\eltroin ring\\assets\\script\\ennemiesmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0E344A-3052-EF1C-06E6-A08098114924}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ennemiesmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C0E344A-3052-EF1C-06E6-A08098114924}|Assembly-CSharp.csproj|C:\\Users\\robin\\TP3_OO_Unity\\Eltroin Ring\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C0E344A-3052-EF1C-06E6-A08098114924}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C0E344A-3052-EF1C-06E6-A08098114924}|Assembly-CSharp.csproj|c:\\users\\robin\\tp3_oo_unity\\eltroin ring\\assets\\script\\cameraplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C0E344A-3052-EF1C-06E6-A08098114924}|Assembly-CSharp.csproj|C:\\Users\\robin\\TP3_OO_Unity\\Eltroin Ring\\assets\\script\\cameraplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C0E344A-3052-EF1C-06E6-A08098114924}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameraplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -26,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnnemiesMovement.cs",
+              "DocumentMoniker": "C:\\Users\\robin\\TP3_OO_Unity\\Eltroin Ring\\Assets\\Script\\EnnemiesMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnnemiesMovement.cs",
+              "ToolTip": "C:\\Users\\robin\\TP3_OO_Unity\\Eltroin Ring\\Assets\\Script\\EnnemiesMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\EnnemiesMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:48:35.678Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,14 +53,14 @@
               "RelativeDocumentMoniker": "Assets\\Script\\AnimationPlayer.cs",
               "ToolTip": "C:\\Users\\robin\\TP3_OO_Unity\\Eltroin Ring\\Assets\\Script\\AnimationPlayer.cs",
               "RelativeToolTip": "Assets\\Script\\AnimationPlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T09:07:15.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DayNightCycle.cs",
               "DocumentMoniker": "C:\\Users\\robin\\TP3_OO_Unity\\Eltroin Ring\\Assets\\Script\\DayNightCycle.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\DayNightCycle.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Assets\\Script\\DayNightCycle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T07:10:44.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T07:10:44.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CameraPlayer.cs",
               "DocumentMoniker": "C:\\Users\\robin\\TP3_OO_Unity\\Eltroin Ring\\Assets\\Script\\CameraPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CameraPlayer.cs",
@@ -64,21 +80,19 @@
               "RelativeToolTip": "Assets\\Script\\CameraPlayer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T14:54:04.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T14:54:04.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\robin\\TP3_OO_Unity\\Eltroin Ring\\Assets\\Script\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\robin\\TP3_OO_Unity\\Eltroin Ring\\Assets\\Script\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Script\\PlayerMovement.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T14:16:46.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T14:16:46.324Z"
             }
           ]
         }
